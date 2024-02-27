@@ -15,7 +15,7 @@ init()
 basedir = "raw/"
 
 #CHANGE THE intext: WITH THE INFORMATION YOU WANT TO SEARCH
-query = "site:pastebin.com intext:smtp.sendgrid.net"
+query = "site:pastebin.com intext:smtp.americanexpress.net"
 query = query.replace(' ', '+')
 
 
